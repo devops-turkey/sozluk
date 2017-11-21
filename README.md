@@ -15,7 +15,7 @@ Continuous Integration fazının çıktısı olan artifact ın gerçek bir canl�
 Continuous Delivery den tek farkı, canlı ortama deploy işleminin manuel değil otomatik yapılmasıdır.
 Deployment Pipeline: Continuous Integration ve Continuous Delivery fazındaki build ve kalite kontrol işlerinin yönetildiği üretim zinciri bandıdır. 
 ## Release Train 
-
+Birçok ürün ve her ürünün farklı Release lerinin olduğu ortamlarda, farklı özelliklerin farklı ortamlar için kullanılmasını ve deneyimlenmesini sağlamak amaçlı periyodik olarak yapılan deploy lardır.
 ## Canary Deployment
 Eski zamanlarda madenlerde kanaryaların oksiyen seviyesini ölçmede kullanıldığı zamanlardakine benzer, yeni bir değişikliğe karşı pazarın tepkisini ölçmek adına değişikliğin sadece küçük bir kitleye açılıp, geri dönüşe göre değişikliği gören kitleyi kademeli olarak arttırmak.  
 ## Blue-Green Deployment
@@ -30,7 +30,7 @@ Yazılımın bir önceki State ine geri dönülmesidir. Bu bazen bir önceki art
 ## Roll-forward
 Rollback yaparak, yeni özellikleri canlı ortamdan geri çekmek yerine, yaşanan beklenmedik durumu düzeltme işlemidir.
 
-## Pets and Cattles
+## Pets vs Cattles
 Pets yani evcil hayvanlar doğası gereği ilgi ister, isimleri vardır, hastalanınca bakım ister ve bu yönleriyle klasik sunucu yönetim yaklaşımı ile benzerlikleri vardır. Cattles yani sığırların ise tek tek isimleri yoktur, sayıları vardır, hastalanınca yenisi ile değiştirilir ve bu yaklaşımın yeni nesil altyapı yönetim ile benzerlikleri vardır.   
 ## Configuration Management
 Çalışmakta olan bir İşletim Sisteminin, artifact deploy edilmeden önce üzerinde kurulması gereken bağımlılıkların ve gerekli konfigurasyonların, Declarative şekilde, tercihen Ansible, Chef veya Puppet gibi bir DSL(Domain Specific Language) kullanılarak otomatik olarak yapılmasıdır.  
