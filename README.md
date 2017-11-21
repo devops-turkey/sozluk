@@ -1,9 +1,7 @@
 # DevOps
 ## DevOps
---------
 Yazılımcılar(Dev) ve Operasyoncular(Ops) arasındaki işbirliğini arttırmak amacıyla ortaya çıkan bir akım.
 ## Artifact
-----------
 Binary veya Bytecode olarak derlenmiş, çalışmaya hazır yazılım paketi. Derleme süreci gerekmeyen dillerde ise, tüm kodların toplandığı bir paket.
 ## Deploy
 Artifact'ın bir sunucu üzerine yüklenerek, servis veriyor hale getirilmesi.
