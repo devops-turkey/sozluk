@@ -1,5 +1,8 @@
-# DevOps: Yazılımcılar(Dev) ve Operasyoncular(Ops) arasındaki işbirliğini arttırmak amacıyla ortaya çıkan bir akım.
-Artifact: Binary veya Bytecode olarak derlenmiş, çalışmaya hazır yazılım paketi. Derleme süreci gerekmeyen dillerde ise, tüm kodların toplandığı bir paket.
+# DevOps
+##DevOps
+Yazılımcılar(Dev) ve Operasyoncular(Ops) arasındaki işbirliğini arttırmak amacıyla ortaya çıkan bir akım.
+##Artifact
+Binary veya Bytecode olarak derlenmiş, çalışmaya hazır yazılım paketi. Derleme süreci gerekmeyen dillerde ise, tüm kodların toplandığı bir paket.
 Deploy: Artifact'ın bir sunucu üzerine yüklenerek, servis veriyor hale getirilmesi.
 Release: Deploy edilmiş artifact'ın canlı ortamda nihai tüketici olan gerçek müşteri veya dış/yan consumer lar tarafından çağrılmaya başlanması 
 Continuous Integration: Geliştirilen kodluk yüksek sıklıkla, tercihen günlük, tüm takım içerisinde entegre edilmesi. Entegre etmek ile beklenen unit test lerden geçmesi ve hataların düzeltilmesidir.   
