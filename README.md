@@ -6,7 +6,7 @@ Binary veya Bytecode olarak derlenmiş, çalışmaya hazır yazılım paketi. De
 ## Deploy
 Artifact'ın bir sunucu üzerine yüklenerek, servis veriyor hale getirilmesi.
 ## Release
-Deploy edilmiş artifact'ın canlı ortamda nihai tüketici olan gerçek müşteri veya dış/yan consumer lar tarafından çağrılmaya başlanması 
+Deploy edilmiş artifact'ın canlı ortamda nihai tüketici olan gerçek müşteri veya dış/yan consumer lar tarafından tüketilmeye başlatılması
 ## Continuous Integration
 Geliştirilen kodluk yüksek sıklıkla, tercihen günlük, tüm takım içerisinde entegre edilmesi. Entegre etmek ile beklenen unit test lerden geçmesi ve hataların düzeltilmesidir.   
 ## Continuous Delivery
