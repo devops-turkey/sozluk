@@ -44,6 +44,8 @@ Belirlenen bir metriğe(CPU, RAM, Network Trafiği...) göre altyapının yatay 
 
 # Microservices
 ## Service Discovery
+Bir bilgisayar ağındaki aygıtların ve bu aygıtlarda çalışan servislerin otomatik olarak saptanması.
 ## Service Registry
+Servislerin ağdaki adreslerini ve ilgili bilgileri tutan veri tabanı. Genellikle yüksek erişimli, dağıtık ve tutarlı bir mimariye sahiptirler.
 ## CQRS(Command Query Responsibility Segregation)
 ## Event Sourcing
