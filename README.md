@@ -48,4 +48,6 @@ Bir bilgisayar ağındaki aygıtların ve bu aygıtlarda çalışan servislerin 
 ## Service Registry
 Servislerin ağdaki adreslerini ve ilgili bilgileri tutan veri tabanı. Genellikle yüksek erişimli, dağıtık ve tutarlı bir mimariye sahiptirler.
 ## CQRS(Command Query Responsibility Segregation)
+Veriyi değiştiren ve veriyi sorgulayan operasyonların sorumluluklarının ayrıştırılmasını esas alan bir yazılım geliştirme modellemesi. "Okuma" ve "Yazma" için ayrı arayüzler geliştirilerek uygulanır. Performans, ölçeklenebirlik ve güvenliği maksimize eder ve sistemin geliştirilmesinde esneklik sağlar.
 ## Event Sourcing
+Mikroservis mimarilerinde dağıtık veriyi yönetme zorluklarını çözmek için kullanılır. Verinin sadece son halini tutmak yerine, veriyi değiştimeye yönelik tüm aksiyonlar kaydedilir. Bir objenin herhangi bir andaki durumu, geçmiş aksiyonların yeniden hesaplanması ile bilinebilir.
