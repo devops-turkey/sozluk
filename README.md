@@ -1,5 +1,5 @@
 # DevOps ve Mikroservis Sözlüğü
-### "Temellerin sağlam olmasının ilk şartı terminoloji de iyi bilmekten geçer" - Anonim
+### "Temellerin sağlam olmasının ilk şartı terminolojiyi iyi bilmekten geçer" - Anonim
 Yazılım dünyasının "Endüstri3.0" ı olarak anlandırabileceğimiz DevOps hareketi ve ilk somut ürünlerinden olan Mikroservis yaklaşımı, beraberinde birçok alışkanlığımızın değişmesini ve doğal olarak da yeni terminolojilerin ortaya çıkmasına neden oldu.
 ## DevOps
 Yazılımcılar(Dev) ve Operasyoncular(Ops) arasındaki işbirliğini arttırmak amacıyla ortaya çıkan bir akım.
